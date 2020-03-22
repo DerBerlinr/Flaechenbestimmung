@@ -1,0 +1,186 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (TicTacToe_AI)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/TicTacToe_AI/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/TicTacToe_AI/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/TicTacToe_AI/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/TicTacToe_AI/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/794747361" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/TicTacToe_AI" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (AI)" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/PycharmProjects/AI/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/AI/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/AI/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/AI/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-1940327132" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/AI" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (InfLK)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/InfLK/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/InfLK/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/InfLK/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/InfLK/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/62031870" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/InfLK" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (lol)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/lol/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/lol/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/lol/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/lol/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/-335479673" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/lol" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (untitled)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.10" />
+      <homePath value="$USER_HOME$/.conda/envs/untitled/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.conda/envs/untitled/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/untitled/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/untitled/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1036513499" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (RaceGame)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/.conda/envs/RaceGame/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.conda/envs/RaceGame/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/RaceGame/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/RaceGame/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/1043686525" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/RaceGame" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (3.7)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/.conda/envs/3.7/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.conda/envs/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/3.7/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.3/python_stubs/234395370" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
