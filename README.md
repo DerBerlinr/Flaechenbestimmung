@@ -1,39 +1,8 @@
-# 5.PK
-
-
-##Versionen
-
-
-###v0.1
-
-Raumschiff: Steuerung, Physics (Gleiten)
-
-###v0.2
-
-Map: Weltraumphysics, Wechselwirkung zum Schiff 
-
-erste Hindernisse:
-
-Planete, Raumhäfen (Checkpoints)
-
-###v0.2.1
-
-Menu: Auswahl mehrere Strecken
-
-###v0.3
-
-Gegner: Physik, KI
-
-###v0.4
-
-Minimap, Items
-
-Grafiken
-
-###v0.5
-
-weitere Strecken, Hindernisse
-
-Optional
-
-Multiplayer
+# Flaechenbestimmung
+A program to meassure an Area by projecting random dots and meassuring hits and misses.
+## How to run
+1. Make sure you have Python 3 installed  
+2. Clone the repository using ```git clone https://github.com/DerBerlinr/Flaechenbestimmung/```
+3. Run the project using ```python main.py```
+## Note
+This project is still WIP and may never be finished
